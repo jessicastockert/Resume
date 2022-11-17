@@ -1,0 +1,85 @@
+body {
+  color: #FF33CC;
+  font-family: playfair display, josefin-sans, sans-serif;
+  background-image: linear-gradient(#FFFBFE, #ffe7fb); 
+  width: 1200px;
+  margin: auto;
+  margin-bottom: 80px;
+  margin-top: 80px;
+ 
+}
+
+.box { 
+  width: 20%;
+  padding: 5px;
+  float: left;
+  background: #FFF3FC; 
+  border: 1px solid;
+  }
+
+h4 {
+  font-size: 22px;
+  font-weight: 600;
+  border-bottom: 3px solid;
+}
+
+.material-icons {
+  vertical-align: bottom;
+  padding-right: 3px;
+}
+
+.contact {
+  font-size: 15px;
+}
+
+
+h1 {
+  font-family: lindsey-signature, sans-serif;
+  font-size: 123px;
+  font-weight: 400;
+  padding-top: 20px;
+  box-shadow: -6px 6px 4px, 2px -3px 4px 1px inset, #FF93E3 -12px 12px 8px, #FFC5F0 -18px 18px 12px;
+  border-radius: 2px;
+  text-shadow: 2px 5px 4px;
+  text-align: center;
+  background-image: linear-gradient(#FFFBFE, #FFF7FD);
+}
+
+.summary {
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 30%;
+}
+
+.work {
+  margin-right: 2%;
+  padding: 9px;
+  margin-left: 30%;
+    }
+
+h2 {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 100;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 100;
+}
+
+p1 {
+  font-size: 20px;
+}
+
+li {
+  font-size: 18px;
+}
+footer {
+  text-align: right;
+  margin-top: 10%;
+  margin-bottom: 2%;
+  margin-right: 2%;
+  font-size: 15px;
+}
+
